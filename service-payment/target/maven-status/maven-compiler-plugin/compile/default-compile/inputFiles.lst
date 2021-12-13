@@ -1,0 +1,13 @@
+C:\Users\Myroslava\Downloads\TaxSystem_microservices-main\TaxSystem_microservices-main\service-payment\src\main\java\com\travelagency\servicepayment\enums\UserType.java
+C:\Users\Myroslava\Downloads\TaxSystem_microservices-main\TaxSystem_microservices-main\service-payment\src\main\java\com\travelagency\servicepayment\ServicePaymentApplication.java
+C:\Users\Myroslava\Downloads\TaxSystem_microservices-main\TaxSystem_microservices-main\service-payment\src\main\java\com\travelagency\servicepayment\enums\OrderStatus.java
+C:\Users\Myroslava\Downloads\TaxSystem_microservices-main\TaxSystem_microservices-main\service-payment\src\main\java\com\travelagency\servicepayment\dto\UserDto.java
+C:\Users\Myroslava\Downloads\TaxSystem_microservices-main\TaxSystem_microservices-main\service-payment\src\main\java\com\travelagency\servicepayment\service\impl\PaymentServiceImpl.java
+C:\Users\Myroslava\Downloads\TaxSystem_microservices-main\TaxSystem_microservices-main\service-payment\src\main\java\com\travelagency\servicepayment\dto\OrderDto.java
+C:\Users\Myroslava\Downloads\TaxSystem_microservices-main\TaxSystem_microservices-main\service-payment\src\main\java\com\travelagency\servicepayment\dto\PaymentResponseDto.java
+C:\Users\Myroslava\Downloads\TaxSystem_microservices-main\TaxSystem_microservices-main\service-payment\src\main\java\com\travelagency\servicepayment\repository\PaymentRepository.java
+C:\Users\Myroslava\Downloads\TaxSystem_microservices-main\TaxSystem_microservices-main\service-payment\src\main\java\com\travelagency\servicepayment\model\Payment.java
+C:\Users\Myroslava\Downloads\TaxSystem_microservices-main\TaxSystem_microservices-main\service-payment\src\main\java\com\travelagency\servicepayment\service\PaymentService.java
+C:\Users\Myroslava\Downloads\TaxSystem_microservices-main\TaxSystem_microservices-main\service-payment\src\main\java\com\travelagency\servicepayment\controller\PaymentController.java
+C:\Users\Myroslava\Downloads\TaxSystem_microservices-main\TaxSystem_microservices-main\service-payment\src\main\java\com\travelagency\servicepayment\enums\PaymentMethod.java
+C:\Users\Myroslava\Downloads\TaxSystem_microservices-main\TaxSystem_microservices-main\service-payment\src\main\java\com\travelagency\servicepayment\dto\PaymentDto.java
